@@ -1,0 +1,7 @@
+C:\Users\Pierre\Desktop\EPSI\B2\C#\Git\FileSystem\FileSystem\TestFileSystem\bin\Debug\TestFileSystem.dll
+C:\Users\Pierre\Desktop\EPSI\B2\C#\Git\FileSystem\FileSystem\TestFileSystem\bin\Debug\TestFileSystem.pdb
+C:\Users\Pierre\Desktop\EPSI\B2\C#\Git\FileSystem\FileSystem\TestFileSystem\bin\Debug\FileSystem.exe
+C:\Users\Pierre\Desktop\EPSI\B2\C#\Git\FileSystem\FileSystem\TestFileSystem\bin\Debug\FileSystem.pdb
+C:\Users\Pierre\Desktop\EPSI\B2\C#\Git\FileSystem\FileSystem\TestFileSystem\obj\Debug\TestFileSystem.csprojResolveAssemblyReference.cache
+C:\Users\Pierre\Desktop\EPSI\B2\C#\Git\FileSystem\FileSystem\TestFileSystem\obj\Debug\TestFileSystem.dll
+C:\Users\Pierre\Desktop\EPSI\B2\C#\Git\FileSystem\FileSystem\TestFileSystem\obj\Debug\TestFileSystem.pdb

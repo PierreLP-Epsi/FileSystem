@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace FileSystem
 {
-    class Directory : File
+    public class Directory : File
     {
         List <File> files = new List <File>();
         List<File> contenu = new List<File>();

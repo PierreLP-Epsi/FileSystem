@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace FileSystem
 {
-    class File
+    public class File
     {
         public string Name;
         public int Permission;
@@ -103,15 +103,15 @@ namespace FileSystem
         public string getRoot()
         {
             File father = Parent;
-            string path = Name;
+            string root = Name;
 
-            while (father != null)
+            while (father.Name != "FileSystem")
             {
-                path = Parent.Name + "\\" + path;
+                root = father.Name;
                 father = father.Parent;
             }
 
-            return path;
+            return root;
         }
 
         public virtual bool delete(string name)
